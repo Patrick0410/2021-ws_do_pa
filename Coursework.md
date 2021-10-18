@@ -60,28 +60,28 @@
 
 
 ---
-### Staff on demand
+###  <span style="color:blue">S</span> - Staff on demand
 | Importance | Requirements |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
 ---
-### Community & Crowd
+### <span style="color:orange">C</span> - Community & Crowd
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
 ---
-### Algorithms
+### <span style="color:red">A</span> - Algorithms
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
 ---
-### Leveraging Assets
+### <span style="color:green">L</span> - Leveraging Assets
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
@@ -92,7 +92,7 @@
 ![Uber](Uber.png) 
 
 ---
-### Engagement 
+### <span style="color:purple">E</span> - Engagement 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
