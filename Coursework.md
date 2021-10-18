@@ -63,41 +63,46 @@
 ###  <span style="color:blue">S</span> - Staff on demand
 | Importance | Requirements |
 | ----------- | ----------- |
-| enables learning   | - Interfaces 
-| allows agility     | - Task description 
+| + enables learning   | - Interfaces 
+| + allows agility     | - Task description 
 
 
 ---
 ### <span style="color:orange">C</span> - Community & Crowd
-| Syntax | Description |
+| Importance | Requirements |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| + Loyalty  | - ...  |
+| + ...  | - ...  |
 
 ---
 ### <span style="color:red">A</span> - Algorithms
-| Syntax | Description |
+| Importance | Requirements |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| + ...  | - ...  |
+| + ...  | - ...  |
 
 ---
 ### <span style="color:green">L</span> - Leveraging Assets
-| Syntax | Description |
+| Importance | Requirements |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| + ...  | - ...  |
+| + ...  | - ...  |
 
-![Google](/Users/patrickayadi/Documents/CBS Köln/1.Semester/Digital Organization/Präsi/Bilder/Google(1).jpg) 
+
+
+
 
 ![Uber](Uber.png) 
 
+![](Google.png) 
+
 ---
 ### <span style="color:purple">E</span> - Engagement 
-| Syntax | Description |
+| Importance | Requirements |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| + ...  | - ...  |
+| + ...  | - ...  |
+
 
 ---
 ### IDEAS
