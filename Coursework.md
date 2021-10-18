@@ -19,7 +19,50 @@
 :rocket:
 
 ---
-### Massice Transformative Purpose (MTP)
+### Massive Transformative Purpose (MTP)
+* <span style="color:red">~~WHAT~~</span> BUT <span style="color:blue">ASPIRES</span>
+
 
 ---
-###SCALE
+### SCALE
+
+<img src="/Users/patrickayadi/Documents/CBS Köln/1.Semester/Digital Organization/Präsi/Bilder/S.png." alt="Alt-Text" title="" /> 
+
+Bilder pro Buchstabe
+
+---
+### Staff on demand
+| Importance | Requirements |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+---
+### Community & Crowd
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+---
+### Algorithms
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+---
+### Leveraging Assets
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+---
+### Engagement 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+---
