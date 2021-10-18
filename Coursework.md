@@ -98,6 +98,8 @@
 * Maximize Value
 * Enables faster entry to the market
 
+![Lean Start UP](Startup.png) 
+
 ---
 
 ### Autonomy
@@ -119,6 +121,8 @@
 
 ---
 ### Example: Xiaomi
+
+![Xiaomi](Xiaomi_logo_(2021-).svg.png) 
 * Flat hierarchy
 * 4300 Employees, 1300 doing R&D
 * Flexible Organizations within the Teams
@@ -128,6 +132,8 @@
 
 ---
 ### Example: Amazon
+![Xiaomi](Amazonlogo.PNG) 
+
 * Institutional <span style="color:green">Yes</span>  
 * Stabilise Team during Growth
 * Growth is more important than profit
