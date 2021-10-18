@@ -58,6 +58,8 @@ Bilder pro Buchstabe
 | Header | Title |
 | Paragraph | Text |
 
+![Google](/Users/patrickayadi/Documents/CBS Köln/1.Semester/Digital Organization/Präsi/Bilder/Google(1).jpg) 
+
 ---
 ### Engagement 
 | Syntax | Description |
