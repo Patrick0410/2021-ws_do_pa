@@ -33,7 +33,23 @@
 
 ---
 ### Massive Transformative Purpose (MTP)
-* <span style="color:red">~~WHAT~~</span> BUT <span style="color:blue">ASPIRES</span>
+* specific
+
+* <span style="color:red">~~WHAT~~</span> BUT <span style="color:blue">ASPIRE TO ACCOMPLISH</span>
+
+* :magnet: retaining & attracting top talent 
+
+* Stabilizing force
+
+* INSIDE & OUTSIDE 
+
+---
+### Examples 
+•	*Ideas worth spreading* – **TED**
+
+•	*Accelerate the world’s transition to sustainable energy* – **Tesla**
+
+•	*Make innovation accesible* – **Quirky**
 
 
 ---
