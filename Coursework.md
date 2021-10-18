@@ -25,10 +25,10 @@
 
 ---
 ### SCALE
+![](SCALE.png) 
 
-<img src="/Users/patrickayadi/Documents/CBS Köln/1.Semester/Digital Organization/Präsi/Bilder/S.png." alt="Alt-Text" title="" /> 
 
-Bilder pro Buchstabe
+
 
 ---
 ### Staff on demand
@@ -59,6 +59,8 @@ Bilder pro Buchstabe
 | Paragraph | Text |
 
 ![Google](/Users/patrickayadi/Documents/CBS Köln/1.Semester/Digital Organization/Präsi/Bilder/Google(1).jpg) 
+
+![Uber](Uber.png) 
 
 ---
 ### Engagement 
