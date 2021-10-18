@@ -70,12 +70,12 @@
 | Paragraph | Text |
 
 ---
-### Ideas
-* **I**nterfaces
-* **D**ashboards
-* **E**xperiment
-* **A**utonomy
-* **S**ocial Technology
+### IDEAS
+* <span style="color:red">**I**</span>nterfaces
+* <span style="color:red">**D**</span>ashboards
+* <span style="color:red">**E**</span>xperiment
+* <span style="color:red">**A**</span>utonomy
+* <span style="color:red">**S**</span>ocial Technology
 
 ---
 ### Interfaces
