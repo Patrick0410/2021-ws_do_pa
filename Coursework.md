@@ -63,8 +63,8 @@
 ###  <span style="color:blue">S</span> - Staff on demand
 | Importance | Requirements |
 | ----------- | ----------- |
-| + enables learning   | - Interfaces 
-  + allows agility     | - Task description 
+| enables learning   | - Interfaces 
+| allows agility     | - Task description 
 
 
 ---
