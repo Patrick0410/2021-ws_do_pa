@@ -63,8 +63,9 @@
 ###  <span style="color:blue">S</span> - Staff on demand
 | Importance | Requirements |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| + enables learning   | - Interfaces 
+  + allows agility     | - Task description 
+
 
 ---
 ### <span style="color:orange">C</span> - Community & Crowd
