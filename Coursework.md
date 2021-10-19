@@ -24,10 +24,10 @@
 ---
 ### Definition
 
-* Corporation with growth :rocket: 
+* Corporation with growth 
 * Agile Organization
 * Leverage technology, flexible resources -> **dominate** its market
-THINK BIG :bulb: 
+THINK BIG!!!
 
  >Faster, cheaper, better => **Massive Transformative Purpose**
 
@@ -39,7 +39,7 @@ THINK BIG :bulb:
 * Higher aspirational purpose 
 * <span style="color:red">~~WHAT~~</span> BUT <span style="color:blue"> WHAT IT ASPIRES TO ACCOMPLISH</span>
 
-* :magnet: retaining & attracting top talent 
+* Retaining & attracting top talent 
 
 * Stabilizing force
 
@@ -65,8 +65,8 @@ THINK BIG :bulb:
 ###  <span style="color:blue">S</span> - Staff on demand
 | Importance | Requirements |
 | ----------- | ----------- |
-| + enables learning   | - Interfaces 
-| + allows agility     | - Task description 
+| + Enables learning   | - Interfaces 
+| + Allows agility     | - Task description 
 
 
 ---
