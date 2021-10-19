@@ -113,7 +113,7 @@
 * <span style="color:red">**S**</span>ocial Technology
 
 ---
-### Interfaces
+### <span style="color:red">**I**</span>nterfaces
 * Filters and connect processes
 * Connects SCALE with IDEAS
 * Mostly very specific and unique
@@ -121,15 +121,15 @@
 
 ---
 
-### Dashboards
+### <span style="color:red">**D**</span>ashboards
 * Tracks and measure big Data
 * Shows main important data on a clear surface
 * Very adaptable
 * Accessible for any Employee
 
 ---
-### Experiment
-* Experimantation adjusts the processes to rapidly changing external effects
+### <span style="color:red">**E**</span>xperiment
+* Experimenting adjusts the processes to rapidly changing external effects
 * Maximize Value
 * Enables faster entry to the market
 
@@ -137,14 +137,14 @@
 
 ---
 
-### Autonomy
+### <span style="color:red">**A**</span>utonomy
 * Self-organized, multidisiplinary Teams
 * Reinforced agile Working
 * Faster reaction and learning Time
 
 ---
 
-### Social Technologies
+### <span style="color:red">**S**</span>ocial Technologies
 * Faster Communication
 * Faster Decisionmaking
 * More effective Learning -> <span style="color:red">Don't</span>  be afraid to fail!
@@ -152,7 +152,7 @@
 
 ---
 
-# What did we learn?
+<table><tr><td>What did we learn?</td></tr></table>
 
 ---
 ### Example: Xiaomi
