@@ -171,7 +171,7 @@ THINK BIG :bulb:
 * Flexible Organizations within the Teams
 * High Interaction with Community 
 
->**= 20 Million sold Smartphones within 3 Years!** 
+>**= 20 million sold smartphones within 3 years!** 
 
 ---
 ### Example: Amazon 
@@ -180,7 +180,7 @@ THINK BIG :bulb:
 * Stabilise Team during Growth
 * Growth is more important than profit
 
->**= Transformation from a Book-selling company to one of the most influential company in the world!** 
+>**= Transformation from a book-selling company to one of the most influential company in the world!** 
 
 ---
 # Thank you!
