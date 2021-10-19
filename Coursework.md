@@ -135,6 +135,7 @@ THINK BIG :bulb:
 
 ---
 ### <span style="color:red">**E**</span>xperiment
+* Lean Start-up method
 * Experimenting adjusts the processes to rapidly changing external effects
 * Maximize Value
 * Enables faster entry to the market
@@ -144,7 +145,7 @@ THINK BIG :bulb:
 ---
 
 ### <span style="color:red">**A**</span>utonomy
-* Self-organized, multidisiplinary Teams
+* Self-organized, multidisciplinary Teams
 * Reinforced agile Working
 * Faster reaction and learning Time
 
@@ -152,9 +153,9 @@ THINK BIG :bulb:
 
 ### <span style="color:red">**S**</span>ocial Technologies
 * Faster Communication
-* Faster Decisionmaking
+* Faster decision making
 * More effective Learning -> <span style="color:red">Don't</span>  be afraid to fail!
-* Stabilise Team during Growth
+* Stabilize Team during Growth
 
 ---
 
