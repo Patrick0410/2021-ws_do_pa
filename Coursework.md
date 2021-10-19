@@ -137,7 +137,7 @@ THINK BIG :bulb:
 ### <span style="color:red">**E**</span>xperiment
 * Lean start-up method 
 
-![](Lean_start_up.jpg)
+![Lean-Start-up](Lean_start_up.jpg)
 * Experimenting adjusts the processes to rapidly changing external effects
 * Maximize value
 * Enables faster entry to the market
@@ -165,7 +165,7 @@ THINK BIG :bulb:
 
 ---
 ### Example: Xiaomi
- 
+ ![Xiaomi](Xiaomimini.jpg)
 * Flat hierarchy
 * 4300 Employees, 1300 doing R&D
 * Flexible Organizations within the Teams
@@ -175,7 +175,7 @@ THINK BIG :bulb:
 
 ---
 ### Example: Amazon 
-
+![Amazon](amazonmini.jpg)
 * Institutional <span style="color:green">Yes</span>  
 * Stabilise Team during Growth
 * Growth is more important than profit
