@@ -27,8 +27,7 @@
 * Corporation with growth :rocket: 
 * Agile Organization
 * Leverage technology, flexible resources -> **dominate** its market
-
- **THINK BIG** :bulb: 
+THINK BIG :bulb: 
 
  >Faster, cheaper, better => **Massive Transformative Purpose**
 
