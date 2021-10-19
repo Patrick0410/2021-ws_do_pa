@@ -120,67 +120,67 @@ THINK BIG :bulb:
 
 ---
 ### <span style="color:red">**I**</span>nterfaces
-* Filters and connect processes
-* Connects SCALE with IDEAS
+* Filter and connect processes
+* Connect SCALE with IDEAS
 * Mostly very specific and unique
 * Automatic
 
 ---
 
 ### <span style="color:red">**D**</span>ashboards
-* Tracks and measure big Data
+* Track and measure big data
 * Shows main important data on a clear surface
 * Very adaptable
-* Accessible for any Employee
+* Accessible for any employee
 
 ---
 ### <span style="color:red">**E**</span>xperiment
-* Lean Start-up method
+* Lean start-up method 
+
+![](Lean_start_up.jpg)
 * Experimenting adjusts the processes to rapidly changing external effects
-* Maximize Value
+* Maximize value
 * Enables faster entry to the market
 
-![Lean Start UP](Startup.png) 
+
 
 ---
 
 ### <span style="color:red">**A**</span>utonomy
-* Self-organized, multidisciplinary Teams
-* Reinforced agile Working
-* Faster reaction and learning Time
+* Self-organized, multidisciplinary teams
+* Reinforced agile working
+* Faster reaction and learning time
 
 ---
 
 ### <span style="color:red">**S**</span>ocial Technologies
-* Faster Communication
+* Faster communication
 * Faster decision making
-* More effective Learning -> <span style="color:red">Don't</span>  be afraid to fail!
-* Stabilize Team during Growth
+* More effective learning -> <span style="color:red">Don't</span>  be afraid to fail!
+* Stabilize team during growth
 
 ---
 
-<table><tr><td>What did we learn?</td></tr></table>
+# What did we learn?
 
 ---
 ### Example: Xiaomi
-
-![Xiaomi](Xiaomi_logo_(2021-).svg.png) 
+ 
 * Flat hierarchy
 * 4300 Employees, 1300 doing R&D
 * Flexible Organizations within the Teams
 * High Interaction with Community 
 
-**= 20 Million sold Smartphones within 3 Years!** 
+>**= 20 Million sold Smartphones within 3 Years!** 
 
 ---
-### Example: Amazon
-![Xiaomi](Amazonlogo.PNG) 
+### Example: Amazon 
 
 * Institutional <span style="color:green">Yes</span>  
 * Stabilise Team during Growth
 * Growth is more important than profit
 
-**= Transformation from a Book-selling company to one of the most influential company in the world!** 
+>**= Transformation from a Book-selling company to one of the most influential company in the world!** 
 
 ---
 # Thank you!
