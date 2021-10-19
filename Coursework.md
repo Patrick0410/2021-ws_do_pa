@@ -1,8 +1,8 @@
-![](AirBnb.png)       
+### ![](AirBnb.png) ![](Uber.png)      
 
-![](Uber.png) 
 
-![](Netflix.png) 
+
+### ![](Netflix.png) 
 
  >**FASTER**, **CHEAPER**,  **BETTER**
  
@@ -16,7 +16,7 @@
 ## Table of contents
 ##### Based on: [Exponential Organizations, Salim Ismail](https://www.amazon.de/Exponential-Organizations-Author-published-October/dp/B00Y4QA03S/ref=sr_1_4?crid=2US038FVFL645&dchild=1&keywords=exponential+organizations&qid=1634559116&sr=8-4)
 * Definition
-* Massive Transformation Purpose (MTP)
+* Massive Transformative Purpose (MTP)
 * SCALE
 * IDEAS
 * Examples
@@ -28,7 +28,7 @@
 * Agile Organization
 * Leverage technology, flexible resources -> **dominate** its market
 
- **THINK BIG** :bulb: 
+ ** THINK BIG** :bulb: 
 
  >Faster, bigger, cheaper => **Massive Transformative Purpose**
 
@@ -75,6 +75,7 @@
 * **Community** = Core team members, partners, vendors, customers, users and fans 
 * **Crowd** = Anyone outside 
 
+
 | Importance | Requirements |
 | ----------- | ----------- |
 | + Loyalty  | - MTP  |
@@ -107,7 +108,7 @@
 | Importance | Requirements |
 | ----------- | ----------- |
 | + Feedbackloops  | - MTP  |
-| + Growth  | - ...  |
+| + Growth  | -   |
 
 
 ---
