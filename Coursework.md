@@ -128,10 +128,10 @@ THINK BIG!!!
 ---
 
 ### <span style="color:red">**D**</span>ashboards
-* Track and measure big data
 * Shows main important data on a clear surface
 * Very adaptable
 * Accessible for any employee
+* Gives any information just in time
 
 ---
 ### <span style="color:red">**E**</span>xperiment
