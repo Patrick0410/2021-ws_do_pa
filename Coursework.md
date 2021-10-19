@@ -84,15 +84,15 @@
 ### <span style="color:red">A</span> - Algorithms
 | Importance | Requirements |
 | ----------- | ----------- |
-| + ...  | - ...  |
-| + ...  | - ...  |
+| + Scalable products  | - Technology  |
+| + Stabilize growth  | - Cultural acceptance  |
 
 ---
 ### <span style="color:green">L</span> - Leveraging Assets
 | Importance | Requirements |
 | ----------- | ----------- |
-| + ...  | - ...  |
-| + ...  | - ...  |
+| + Fexibility  | -   |
+| + UP/Down-Scaling  | -   |
 
 
 
@@ -106,8 +106,8 @@
 ### <span style="color:purple">E</span> - Engagement 
 | Importance | Requirements |
 | ----------- | ----------- |
-| + ...  | - ...  |
-| + ...  | - ...  |
+| + Feedbackloops  | - MTP  |
+| + Growth  | - ...  |
 
 
 ---
