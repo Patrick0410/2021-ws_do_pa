@@ -72,10 +72,13 @@
 
 ---
 ### <span style="color:orange">C</span> - Community & Crowd
+* **Community** = Core team members, partners, vendors, customers, users and fans 
+* **Crowd** = Anyone outside 
+
 | Importance | Requirements |
 | ----------- | ----------- |
-| + Loyalty  | - ...  |
-| + ...  | - ...  |
+| + Loyalty  | - MTP  |
+| + Support exponential growth   | - Engagement  |
 
 ---
 ### <span style="color:red">A</span> - Algorithms
