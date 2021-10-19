@@ -1,8 +1,12 @@
-![](AirBnb.png) 
+![](AirBnb.png)       
 
 ![](Uber.png) 
 
 ![](Netflix.png) 
+
+ >**FASTER**, **CHEAPER**,  **BETTER**
+ 
+
 
 ---
 
@@ -10,46 +14,45 @@
 >Patrick **Ayadi** & Alexander **Lau**
 ---
 ## Table of contents
+##### Based on: [Exponential Organizations, Salim Ismail](https://www.amazon.de/Exponential-Organizations-Author-published-October/dp/B00Y4QA03S/ref=sr_1_4?crid=2US038FVFL645&dchild=1&keywords=exponential+organizations&qid=1634559116&sr=8-4)
 * Definition
 * Massive Transformation Purpose (MTP)
 * SCALE
 * IDEAS
 * Examples
 
-##### Based on: [Exponential Organizations, Salim Ismail](https://www.amazon.de/Exponential-Organizations-Author-published-October/dp/B00Y4QA03S/ref=sr_1_4?crid=2US038FVFL645&dchild=1&keywords=exponential+organizations&qid=1634559116&sr=8-4)
 ---
 ### Definition
-> Why new organizations are ten times better, faster and cheaper than yours
-* **Growth** :rocket: 
+
+* Corporation with growth :rocket: 
 * Agile Organization
-* leverage technology, flexible resources
--> **dominate** its market
+* Leverage technology, flexible resources -> **dominate** its market
 
  **THINK BIG** :bulb: 
 
- !!!Faster, bigger, cheaper => Massive Transformative Purpose 
+ >Faster, bigger, cheaper => **Massive Transformative Purpose**
 
 
 
 ---
 ### Massive Transformative Purpose (MTP)
-* specific
-
-* <span style="color:red">~~WHAT~~</span> BUT <span style="color:blue">ASPIRE TO ACCOMPLISH</span>
+* Concept
+* Higher aspirational purpose 
+* <span style="color:red">~~WHAT~~</span> BUT <span style="color:blue"> WHAT IT ASPIRES TO ACCOMPLISH</span>
 
 * :magnet: retaining & attracting top talent 
 
 * Stabilizing force
 
-* INSIDE & OUTSIDE 
-
 ---
 ### Examples 
 •	*Ideas worth spreading* – **TED**
 
-•	*Accelerate the world’s transition to sustainable energy* – **Tesla**
-
 •	*Make innovation accesible* – **Quirky**
+
+•	*Organize the worlds information* – **Google**
+
+
 
 
 ---
