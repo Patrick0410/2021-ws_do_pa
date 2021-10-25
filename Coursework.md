@@ -162,7 +162,7 @@ THINK BIG!!!
 ---
 
 # What did we learn?
-
+![](Brain.png)  
 ---
 ### Example: Xiaomi
  ![Xiaomi](Xiaomimini.jpg)
