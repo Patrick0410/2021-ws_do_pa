@@ -203,8 +203,9 @@
 
 * Netflix Logo: https://www.freepnglogos.com/images/netflix-logo-png-2616.html 
 
---- 
 * Google Logo: https://www.freepnglogos.com/images/google-logo-history-png-2598.html 
+
+--- 
 
 * Xiaomi Logo: https://logosmarken.com/xiaomi-fuehrte-ein-neues-logo-ein-und-fuegte-unternehmensfarben-hinzu/
 
