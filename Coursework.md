@@ -160,7 +160,9 @@
 ---
 
 # What did we learn?
-![](Brain.png)  
+---
+
+![](Brain.jpg)  
 ---
 ### Example: Xiaomi
  ![Xiaomi](Xiaomimini.jpg)
@@ -182,3 +184,15 @@
 
 ---
 # Thank you!
+---
+## Sources
+
+### Book:
+Exponential Organization by Salim Ismail
+
+### Images:
+
+Xiaomi Logo: https://logosmarken.com/xiaomi-fuehrte-ein-neues-logo-ein-und-fuegte-unternehmensfarben-hinzu/
+
+Amazon Logo: https://de.freelogodesign.org/blog/2019/12/04/die-logogeschichte-von-amazon
+
