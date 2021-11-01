@@ -136,7 +136,7 @@
 * Lean start-up method 
 
 ![Lean-Start-up](Lean_start_up.jpg)
-* Experimenting adjusts the processes to rapidly changing external effects
+* Experimenting adjusts the processes to rapidly changing external effects  -> <span style="color:red">Don't</span>  be afraid to fail!
 * Maximize value
 * Enables faster entry to the market
 
@@ -154,7 +154,7 @@
 ### <span style="color:red">**S**</span>ocial Technologies
 * Faster communication
 * Faster decision making
-* More effective learning -> <span style="color:red">Don't</span>  be afraid to fail!
+* More effective learning
 * Stabilize team during growth
 
 ---
