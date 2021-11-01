@@ -2,7 +2,7 @@
 
 
 
-### ![](Netflix.png)  ![](netflix-logo-circle-png-5.png)   
+### ![](Netflix.png) 
 
  >**FASTER**, **CHEAPER**,  **BETTER**
  
@@ -199,11 +199,13 @@
 
 
 ### Images:
-*AirBnb Logo: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.urlaubstracker.de%2Fwp-content%2Fuploads%2F2019%2F03%2Fairbnb_horizontal_lockup_web-high-res-630x283.png&imgrefurl=https%3A%2F%2Fwww.urlaubstracker.de%2Freiseanbieter%2Fairbnb%2F&tbnid=aPU1CzIndcQbHM&vet=12ahUKEwi_x6m_7ffzAhVQwYUKHbCTA2wQMygIegUIARC6AQ..i&docid=zcFqJj3ZGgOBPM&w=630&h=283&q=airbnb%20logo&client=firefox-b-d&ved=2ahUKEwi_x6m_7ffzAhVQwYUKHbCTA2wQMygIegUIARC6AQ 
+* AirBnb Logo: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.urlaubstracker.de%2Fwp-content%2Fuploads%2F2019%2F03%2Fairbnb_horizontal_lockup_web-high-res-630x283.png&imgrefurl=https%3A%2F%2Fwww.urlaubstracker.de%2Freiseanbieter%2Fairbnb%2F&tbnid=aPU1CzIndcQbHM&vet=12ahUKEwi_x6m_7ffzAhVQwYUKHbCTA2wQMygIegUIARC6AQ..i&docid=zcFqJj3ZGgOBPM&w=630&h=283&q=airbnb%20logo&client=firefox-b-d&ved=2ahUKEwi_x6m_7ffzAhVQwYUKHbCTA2wQMygIegUIARC6AQ 
 
 * Uber Logo: https://www.freepnglogos.com/images/uber-logo-png-1581.html 
 
 * Netflix Logo: https://www.freepnglogos.com/images/netflix-logo-png-2616.html 
+
+--- 
 
 * Google Logo: https://www.freepnglogos.com/images/google-logo-history-png-2598.html 
 
