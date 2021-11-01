@@ -97,7 +97,7 @@
 
 
 
-### ![](Google.png) ![Uber](Uber.png) 
+### ![](google-logo-png-suite-everything-you-need-know-about-google-newest-0.png) ![Uber](Uber.png) 
 
 
 ---
@@ -195,9 +195,16 @@ https://www.tractionwise.com/magazine/exponentielle-organisation-werden/
 
 https://www.entrepreneur.com/article/341439 
 
+---
+
+
 ### Images:
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fgoogle-logo-png%2Fgoogle-logo-png-suite-everything-you-need-know-about-google-newest-0.png&imgrefurl=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fgoogle-logo&tbnid=x2FIZO9M9NWVnM&vet=12ahUKEwidqeKQ4_fzAhUImhoKHSSIB8gQMygNegUIARDBAQ..i&docid=4BsFu4lvn4jyRM&w=1024&h=1024&q=google%20logo&hl=de&client=firefox-b-d&ved=2ahUKEwidqeKQ4_fzAhUImhoKHSSIB8gQMygNegUIARDBAQ 
 
 Xiaomi Logo: https://logosmarken.com/xiaomi-fuehrte-ein-neues-logo-ein-und-fuegte-unternehmensfarben-hinzu/
 
 Amazon Logo: https://de.freelogodesign.org/blog/2019/12/04/die-logogeschichte-von-amazon
+
+
 
