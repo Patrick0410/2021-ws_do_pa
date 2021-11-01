@@ -90,10 +90,10 @@
 
 ---
 ### <span style="color:green">L</span> - Leveraging Assets
-| Importance | Requirements |
-| ----------- | ----------- |
-| + Fexibility  | -   |
-| + UP/Down-Scaling  | -   |
+| Importance |
+| ----------- | 
+| + Fexibility  
+| + UP/Down-Scaling  
 
 
 
