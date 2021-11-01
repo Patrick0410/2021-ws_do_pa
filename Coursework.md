@@ -28,10 +28,8 @@
 * Agile Organization
 * Leverage technology, flexible resources 
 ->**dominate** its market
-* THINK BIG!!
 
-
- >Faster, cheaper, better => **Massive Transformative Purpose**
+ >THINK BIG -> Faster, cheaper, better => **Massive Transformative Purpose**
 
 
 
