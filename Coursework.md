@@ -199,12 +199,12 @@
 
 
 ### Images:
+* AirBnb Logo: https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F69%2FAirbnb_Logo_B%25C3%25A9lo.svg%2F2560px-Airbnb_Logo_B%25C3%25A9lo.svg.png&imgrefurl=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FDatei%3AAirbnb_Logo_B%25C3%25A9lo.svg&tbnid=p_kGH3uU4T06TM&vet=12ahUKEwiOkafY8PfzAhULEhoKHTWNBd4QMygAegUIARCxAQ..i&docid=i8zl6o297xANiM&w=2560&h=800&q=airbnb%20logo&hl=de&client=firefox-b-d&ved=2ahUKEwiOkafY8PfzAhULEhoKHTWNBd4QMygAegUIARCxAQ 
 * Uber Logo: https://www.freepnglogos.com/images/uber-logo-png-1581.html 
 
 * Netflix Logo: https://www.freepnglogos.com/images/netflix-logo-png-2616.html 
 
 --- 
-
 * Google Logo: https://www.freepnglogos.com/images/google-logo-history-png-2598.html 
 
 * Xiaomi Logo: https://logosmarken.com/xiaomi-fuehrte-ein-neues-logo-ein-und-fuegte-unternehmensfarben-hinzu/
