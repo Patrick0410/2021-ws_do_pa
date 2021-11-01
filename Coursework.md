@@ -26,8 +26,10 @@
 
 * Corporation with growth 
 * Agile Organization
-* Leverage technology, flexible resources -> **dominate** its market
-THINK BIG!!!
+* Leverage technology, flexible resources 
+->**dominate** its market
+
+* THINK BIG!!!
 
  >Faster, cheaper, better => **Massive Transformative Purpose**
 
