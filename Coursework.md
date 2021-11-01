@@ -1,4 +1,4 @@
-### ![](AirBnb.png) ![](Uber.png)      
+### ![](Uber.png)      
 
 
 
@@ -199,7 +199,6 @@
 
 
 ### Images:
-* AirBnb Logo: https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fairbnb-logo-0.png&imgrefurl=https%3A%2F%2Fen.logodownload.org%2Fairbnb-logo%2F&tbnid=-e1fN-bKIcxg3M&vet=12ahUKEwiS6am88ffzAhVM04UKHZZKCPIQMygDegUIARCtAQ..i&docid=QgsofyOWou_qDM&w=4096&h=4096&q=airbnb%20logo&hl=de&client=firefox-b-d&ved=2ahUKEwiS6am88ffzAhVM04UKHZZKCPIQMygDegUIARCtAQ 
 * Uber Logo: https://www.freepnglogos.com/images/uber-logo-png-1581.html 
 
 * Netflix Logo: https://www.freepnglogos.com/images/netflix-logo-png-2616.html 
