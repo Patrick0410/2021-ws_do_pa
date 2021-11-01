@@ -28,6 +28,7 @@
 * Agile Organization
 * Leverage technology, flexible resources 
 ->**dominate** its market
+
 * THINK BIG!!!
 
  >Faster, cheaper, better => **Massive Transformative Purpose**
@@ -42,7 +43,6 @@
 
 * Retaining & attracting top talent 
 
-* Stabilizing force
 
 ---
 ### Examples 
@@ -99,9 +99,8 @@
 
 
 
-![Uber](Uber.png) 
+### ![Uber](Uber.png)  ![](Google.png) 
 
-![](Google.png) 
 
 ---
 ### <span style="color:purple">E</span> - Engagement 
