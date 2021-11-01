@@ -188,7 +188,12 @@
 ## Sources
 
 ### Book:
-Exponential Organization by Salim Ismail
+Exponential Organizations by Salim Ismail
+
+### Web:
+https://www.tractionwise.com/magazine/exponentielle-organisation-werden/
+
+https://www.entrepreneur.com/article/341439 
 
 ### Images:
 
