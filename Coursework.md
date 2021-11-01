@@ -205,8 +205,9 @@
 
 * Google Logo: https://www.freepnglogos.com/images/google-logo-history-png-2598.html 
 
---- 
 
+
+--- 
 * Xiaomi Logo: https://logosmarken.com/xiaomi-fuehrte-ein-neues-logo-ein-und-fuegte-unternehmensfarben-hinzu/
 
 * Amazon Logo: https://de.freelogodesign.org/blog/2019/12/04/die-logogeschichte-von-amazon
