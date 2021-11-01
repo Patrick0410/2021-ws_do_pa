@@ -2,7 +2,7 @@
 
 
 
-### ![](Netflix.png) 
+### ![](Netflix.png)  ![](netflix-logo-circle-png-5.png)   
 
  >**FASTER**, **CHEAPER**,  **BETTER**
  
@@ -200,6 +200,7 @@
 
 ### Images:
 
+* https://www.freepnglogos.com/images/google-logo-history-png-2598.html 
 
 
 Xiaomi Logo: https://logosmarken.com/xiaomi-fuehrte-ein-neues-logo-ein-und-fuegte-unternehmensfarben-hinzu/
