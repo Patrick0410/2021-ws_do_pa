@@ -90,7 +90,7 @@
 ### <span style="color:green">L</span> - Leveraging Assets
 | Importance |
 | ----------- | 
-| + Fexibility  
+| + Flexibility  
 | + UP/Down-Scaling  
 
 
