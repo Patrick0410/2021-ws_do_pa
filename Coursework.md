@@ -166,17 +166,17 @@
 ---
 ### Example: Xiaomi
  ![Xiaomi](Xiaomimini.jpg)
-* Flat hierarchy
+* Flat hierarchy (Autonomy)
 * 4300 Employees, 1300 doing R&D
-* Flexible Organizations within the Teams
-* High Interaction with Community 
+* Flexible Organizations within the Teams (Autonomy, Experiment)
+* High Interaction with Community (Community & Crowd)
 
 >**= 20 million sold smartphones within 3 years!** 
 
 ---
 ### Example: Amazon 
 ![Amazon](amazonmini.jpg)
-* Institutional <span style="color:green">Yes</span>  
+* Institutional <span style="color:green">Yes</span>  (Experiment) 
 * Stabilise Team during Growth
 * Growth is more important than profit
 
